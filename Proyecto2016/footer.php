@@ -1,0 +1,1 @@
+<footer style="text-align: center;">Desarrollado por PIEDRA.co 2016&#174;</footer>

@@ -1,0 +1,20 @@
+body {
+	background-color:  #A4C6CF;
+}
+#header{
+	 background-color: #6AC5AD; 
+	 border-radius: 25px;
+	 border: 2px solid;
+}
+#panel{
+	background-color: #DEEBEA;
+	border: 10px double #105FE8;
+	border-radius: 5%;
+}
+#notificaciones{
+	background-color: #DEEBEA;
+	border-radius: 5%;
+}
+#dat_press{
+	text-align: center;
+}
